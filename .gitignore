@@ -1,0 +1,11 @@
+.vscode/
+*.swp
+.DS_Store
+bin/configlet
+bin/configlet.exe
+bin/elm-format
+elm-stuff
+CHECKLIST
+build.js
+node_modules
+build
